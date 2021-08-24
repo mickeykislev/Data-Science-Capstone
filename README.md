@@ -1,1 +1,2 @@
-# Data-Science-Capstone
+# DData files
+prepared by preprocessing n-grams
