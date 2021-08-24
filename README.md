@@ -1,1 +1,2 @@
-# Data-Science-Capstone
+# preparation file
+The file which prepared the n-grams.
